@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository, created to help me understand how this all works.
+This is my first repository! It serves as an example for familiarizing myself with Github mechanics.
